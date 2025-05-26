@@ -1,0 +1,14 @@
+C:\Users\rebek\Documents\Dev\cSharp\exerciciosPropostosSequencial\bin\Debug\net9.0\exerciciosPropostosSequencial.exe
+C:\Users\rebek\Documents\Dev\cSharp\exerciciosPropostosSequencial\bin\Debug\net9.0\exerciciosPropostosSequencial.deps.json
+C:\Users\rebek\Documents\Dev\cSharp\exerciciosPropostosSequencial\bin\Debug\net9.0\exerciciosPropostosSequencial.runtimeconfig.json
+C:\Users\rebek\Documents\Dev\cSharp\exerciciosPropostosSequencial\bin\Debug\net9.0\exerciciosPropostosSequencial.dll
+C:\Users\rebek\Documents\Dev\cSharp\exerciciosPropostosSequencial\bin\Debug\net9.0\exerciciosPropostosSequencial.pdb
+C:\Users\rebek\Documents\Dev\cSharp\exerciciosPropostosSequencial\obj\Debug\net9.0\exerciciosPropostosSequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebek\Documents\Dev\cSharp\exerciciosPropostosSequencial\obj\Debug\net9.0\exerciciosPropostosSequencial.AssemblyInfoInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\exerciciosPropostosSequencial\obj\Debug\net9.0\exerciciosPropostosSequencial.AssemblyInfo.cs
+C:\Users\rebek\Documents\Dev\cSharp\exerciciosPropostosSequencial\obj\Debug\net9.0\exerciciosPropostosSequencial.csproj.CoreCompileInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\exerciciosPropostosSequencial\obj\Debug\net9.0\exerciciosPropostosSequencial.dll
+C:\Users\rebek\Documents\Dev\cSharp\exerciciosPropostosSequencial\obj\Debug\net9.0\refint\exerciciosPropostosSequencial.dll
+C:\Users\rebek\Documents\Dev\cSharp\exerciciosPropostosSequencial\obj\Debug\net9.0\exerciciosPropostosSequencial.pdb
+C:\Users\rebek\Documents\Dev\cSharp\exerciciosPropostosSequencial\obj\Debug\net9.0\exerciciosPropostosSequencial.genruntimeconfig.cache
+C:\Users\rebek\Documents\Dev\cSharp\exerciciosPropostosSequencial\obj\Debug\net9.0\ref\exerciciosPropostosSequencial.dll
