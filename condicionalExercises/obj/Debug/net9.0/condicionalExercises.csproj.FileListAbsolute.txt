@@ -1,0 +1,14 @@
+C:\Users\rebek\Documents\Dev\cSharp\condicionalExercises\bin\Debug\net9.0\condicionalExercises.exe
+C:\Users\rebek\Documents\Dev\cSharp\condicionalExercises\bin\Debug\net9.0\condicionalExercises.deps.json
+C:\Users\rebek\Documents\Dev\cSharp\condicionalExercises\bin\Debug\net9.0\condicionalExercises.runtimeconfig.json
+C:\Users\rebek\Documents\Dev\cSharp\condicionalExercises\bin\Debug\net9.0\condicionalExercises.dll
+C:\Users\rebek\Documents\Dev\cSharp\condicionalExercises\bin\Debug\net9.0\condicionalExercises.pdb
+C:\Users\rebek\Documents\Dev\cSharp\condicionalExercises\obj\Debug\net9.0\condicionalExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebek\Documents\Dev\cSharp\condicionalExercises\obj\Debug\net9.0\condicionalExercises.AssemblyInfoInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\condicionalExercises\obj\Debug\net9.0\condicionalExercises.AssemblyInfo.cs
+C:\Users\rebek\Documents\Dev\cSharp\condicionalExercises\obj\Debug\net9.0\condicionalExercises.csproj.CoreCompileInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\condicionalExercises\obj\Debug\net9.0\condicionalExercises.dll
+C:\Users\rebek\Documents\Dev\cSharp\condicionalExercises\obj\Debug\net9.0\refint\condicionalExercises.dll
+C:\Users\rebek\Documents\Dev\cSharp\condicionalExercises\obj\Debug\net9.0\condicionalExercises.pdb
+C:\Users\rebek\Documents\Dev\cSharp\condicionalExercises\obj\Debug\net9.0\condicionalExercises.genruntimeconfig.cache
+C:\Users\rebek\Documents\Dev\cSharp\condicionalExercises\obj\Debug\net9.0\ref\condicionalExercises.dll
