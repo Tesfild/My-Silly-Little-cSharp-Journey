@@ -102,13 +102,13 @@ int combustivel = int.Parse(Console.ReadLine());
 
 while (combustivel != 4) {
     if (combustivel == 1) {
-        alcool = alcool + 1;
+        alcool++;
     }
     else if (combustivel == 2) {
-        gasolina = gasolina +1;
+        gasolina++;
     }
     else if (combustivel == 3) {
-        diesel = diesel +1;
+        diesel++;
     }
 
     combustivel = int.Parse(Console.ReadLine());
