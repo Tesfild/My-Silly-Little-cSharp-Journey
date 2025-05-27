@@ -1,0 +1,14 @@
+C:\Users\rebek\Documents\Dev\cSharp\whileExercises\bin\Debug\net9.0\whileExercises.exe
+C:\Users\rebek\Documents\Dev\cSharp\whileExercises\bin\Debug\net9.0\whileExercises.deps.json
+C:\Users\rebek\Documents\Dev\cSharp\whileExercises\bin\Debug\net9.0\whileExercises.runtimeconfig.json
+C:\Users\rebek\Documents\Dev\cSharp\whileExercises\bin\Debug\net9.0\whileExercises.dll
+C:\Users\rebek\Documents\Dev\cSharp\whileExercises\bin\Debug\net9.0\whileExercises.pdb
+C:\Users\rebek\Documents\Dev\cSharp\whileExercises\obj\Debug\net9.0\whileExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebek\Documents\Dev\cSharp\whileExercises\obj\Debug\net9.0\whileExercises.AssemblyInfoInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\whileExercises\obj\Debug\net9.0\whileExercises.AssemblyInfo.cs
+C:\Users\rebek\Documents\Dev\cSharp\whileExercises\obj\Debug\net9.0\whileExercises.csproj.CoreCompileInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\whileExercises\obj\Debug\net9.0\whileExercises.dll
+C:\Users\rebek\Documents\Dev\cSharp\whileExercises\obj\Debug\net9.0\refint\whileExercises.dll
+C:\Users\rebek\Documents\Dev\cSharp\whileExercises\obj\Debug\net9.0\whileExercises.pdb
+C:\Users\rebek\Documents\Dev\cSharp\whileExercises\obj\Debug\net9.0\whileExercises.genruntimeconfig.cache
+C:\Users\rebek\Documents\Dev\cSharp\whileExercises\obj\Debug\net9.0\ref\whileExercises.dll
