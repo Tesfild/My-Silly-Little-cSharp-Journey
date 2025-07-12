@@ -1,0 +1,14 @@
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\logicalDecisionsWithIF\bin\Debug\net9.0\logicalDecisionsWithIF.exe
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\logicalDecisionsWithIF\bin\Debug\net9.0\logicalDecisionsWithIF.deps.json
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\logicalDecisionsWithIF\bin\Debug\net9.0\logicalDecisionsWithIF.runtimeconfig.json
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\logicalDecisionsWithIF\bin\Debug\net9.0\logicalDecisionsWithIF.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\logicalDecisionsWithIF\bin\Debug\net9.0\logicalDecisionsWithIF.pdb
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\logicalDecisionsWithIF\obj\Debug\net9.0\logicalDecisionsWithIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\logicalDecisionsWithIF\obj\Debug\net9.0\logicalDecisionsWithIF.AssemblyInfoInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\logicalDecisionsWithIF\obj\Debug\net9.0\logicalDecisionsWithIF.AssemblyInfo.cs
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\logicalDecisionsWithIF\obj\Debug\net9.0\logicalDecisionsWithIF.csproj.CoreCompileInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\logicalDecisionsWithIF\obj\Debug\net9.0\logicalDecisionsWithIF.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\logicalDecisionsWithIF\obj\Debug\net9.0\refint\logicalDecisionsWithIF.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\logicalDecisionsWithIF\obj\Debug\net9.0\logicalDecisionsWithIF.pdb
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\logicalDecisionsWithIF\obj\Debug\net9.0\logicalDecisionsWithIF.genruntimeconfig.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\logicalDecisionsWithIF\obj\Debug\net9.0\ref\logicalDecisionsWithIF.dll

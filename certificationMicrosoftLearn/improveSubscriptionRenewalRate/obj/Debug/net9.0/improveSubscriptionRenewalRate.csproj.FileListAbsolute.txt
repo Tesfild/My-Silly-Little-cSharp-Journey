@@ -1,0 +1,14 @@
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\improveSubscriptionRenewalRate\bin\Debug\net9.0\improveSubscriptionRenewalRate.exe
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\improveSubscriptionRenewalRate\bin\Debug\net9.0\improveSubscriptionRenewalRate.deps.json
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\improveSubscriptionRenewalRate\bin\Debug\net9.0\improveSubscriptionRenewalRate.runtimeconfig.json
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\improveSubscriptionRenewalRate\bin\Debug\net9.0\improveSubscriptionRenewalRate.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\improveSubscriptionRenewalRate\bin\Debug\net9.0\improveSubscriptionRenewalRate.pdb
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\improveSubscriptionRenewalRate\obj\Debug\net9.0\improveSubscriptionRenewalRate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\improveSubscriptionRenewalRate\obj\Debug\net9.0\improveSubscriptionRenewalRate.AssemblyInfoInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\improveSubscriptionRenewalRate\obj\Debug\net9.0\improveSubscriptionRenewalRate.AssemblyInfo.cs
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\improveSubscriptionRenewalRate\obj\Debug\net9.0\improveSubscriptionRenewalRate.csproj.CoreCompileInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\improveSubscriptionRenewalRate\obj\Debug\net9.0\improveSubscriptionRenewalRate.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\improveSubscriptionRenewalRate\obj\Debug\net9.0\refint\improveSubscriptionRenewalRate.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\improveSubscriptionRenewalRate\obj\Debug\net9.0\improveSubscriptionRenewalRate.pdb
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\improveSubscriptionRenewalRate\obj\Debug\net9.0\improveSubscriptionRenewalRate.genruntimeconfig.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\improveSubscriptionRenewalRate\obj\Debug\net9.0\ref\improveSubscriptionRenewalRate.dll
