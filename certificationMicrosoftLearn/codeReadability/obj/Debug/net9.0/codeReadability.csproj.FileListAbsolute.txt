@@ -1,0 +1,14 @@
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\codeReadability\bin\Debug\net9.0\codeReadability.exe
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\codeReadability\bin\Debug\net9.0\codeReadability.deps.json
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\codeReadability\bin\Debug\net9.0\codeReadability.runtimeconfig.json
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\codeReadability\bin\Debug\net9.0\codeReadability.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\codeReadability\bin\Debug\net9.0\codeReadability.pdb
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\codeReadability\obj\Debug\net9.0\codeReadability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\codeReadability\obj\Debug\net9.0\codeReadability.AssemblyInfoInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\codeReadability\obj\Debug\net9.0\codeReadability.AssemblyInfo.cs
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\codeReadability\obj\Debug\net9.0\codeReadability.csproj.CoreCompileInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\codeReadability\obj\Debug\net9.0\codeReadability.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\codeReadability\obj\Debug\net9.0\refint\codeReadability.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\codeReadability\obj\Debug\net9.0\codeReadability.pdb
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\codeReadability\obj\Debug\net9.0\codeReadability.genruntimeconfig.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\codeReadability\obj\Debug\net9.0\ref\codeReadability.dll
