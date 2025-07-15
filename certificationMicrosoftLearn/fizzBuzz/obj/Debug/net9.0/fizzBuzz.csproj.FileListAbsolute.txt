@@ -1,0 +1,14 @@
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\bin\Debug\net9.0\fizzBuzz.exe
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\bin\Debug\net9.0\fizzBuzz.deps.json
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\bin\Debug\net9.0\fizzBuzz.runtimeconfig.json
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\bin\Debug\net9.0\fizzBuzz.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\bin\Debug\net9.0\fizzBuzz.pdb
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\obj\Debug\net9.0\fizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\obj\Debug\net9.0\fizzBuzz.AssemblyInfoInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\obj\Debug\net9.0\fizzBuzz.AssemblyInfo.cs
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\obj\Debug\net9.0\fizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\obj\Debug\net9.0\fizzBuzz.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\obj\Debug\net9.0\refint\fizzBuzz.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\obj\Debug\net9.0\fizzBuzz.pdb
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\obj\Debug\net9.0\fizzBuzz.genruntimeconfig.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\obj\Debug\net9.0\ref\fizzBuzz.dll

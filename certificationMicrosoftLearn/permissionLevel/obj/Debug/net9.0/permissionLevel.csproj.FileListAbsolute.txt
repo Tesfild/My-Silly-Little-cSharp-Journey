@@ -1,0 +1,14 @@
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\permissionLevel\bin\Debug\net9.0\permissionLevel.exe
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\permissionLevel\bin\Debug\net9.0\permissionLevel.deps.json
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\permissionLevel\bin\Debug\net9.0\permissionLevel.runtimeconfig.json
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\permissionLevel\bin\Debug\net9.0\permissionLevel.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\permissionLevel\bin\Debug\net9.0\permissionLevel.pdb
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\permissionLevel\obj\Debug\net9.0\permissionLevel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\permissionLevel\obj\Debug\net9.0\permissionLevel.AssemblyInfoInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\permissionLevel\obj\Debug\net9.0\permissionLevel.AssemblyInfo.cs
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\permissionLevel\obj\Debug\net9.0\permissionLevel.csproj.CoreCompileInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\permissionLevel\obj\Debug\net9.0\permissionLevel.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\permissionLevel\obj\Debug\net9.0\refint\permissionLevel.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\permissionLevel\obj\Debug\net9.0\permissionLevel.pdb
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\permissionLevel\obj\Debug\net9.0\permissionLevel.genruntimeconfig.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\permissionLevel\obj\Debug\net9.0\ref\permissionLevel.dll

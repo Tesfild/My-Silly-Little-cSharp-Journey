@@ -1,0 +1,14 @@
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\bin\Debug\net9.0\for.exe
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\bin\Debug\net9.0\for.deps.json
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\bin\Debug\net9.0\for.runtimeconfig.json
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\bin\Debug\net9.0\for.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\bin\Debug\net9.0\for.pdb
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\obj\Debug\net9.0\for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\obj\Debug\net9.0\for.AssemblyInfoInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\obj\Debug\net9.0\for.AssemblyInfo.cs
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\obj\Debug\net9.0\for.csproj.CoreCompileInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\obj\Debug\net9.0\for.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\obj\Debug\net9.0\refint\for.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\obj\Debug\net9.0\for.pdb
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\obj\Debug\net9.0\for.genruntimeconfig.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\for\obj\Debug\net9.0\ref\for.dll
