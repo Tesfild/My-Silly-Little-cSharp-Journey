@@ -1,0 +1,14 @@
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\rewriteIfUsingSwitchCase\bin\Debug\net9.0\rewriteIfUsingSwitchCase.exe
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\rewriteIfUsingSwitchCase\bin\Debug\net9.0\rewriteIfUsingSwitchCase.deps.json
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\rewriteIfUsingSwitchCase\bin\Debug\net9.0\rewriteIfUsingSwitchCase.runtimeconfig.json
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\rewriteIfUsingSwitchCase\bin\Debug\net9.0\rewriteIfUsingSwitchCase.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\rewriteIfUsingSwitchCase\bin\Debug\net9.0\rewriteIfUsingSwitchCase.pdb
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\rewriteIfUsingSwitchCase\obj\Debug\net9.0\rewriteIfUsingSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\rewriteIfUsingSwitchCase\obj\Debug\net9.0\rewriteIfUsingSwitchCase.AssemblyInfoInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\rewriteIfUsingSwitchCase\obj\Debug\net9.0\rewriteIfUsingSwitchCase.AssemblyInfo.cs
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\rewriteIfUsingSwitchCase\obj\Debug\net9.0\rewriteIfUsingSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\rewriteIfUsingSwitchCase\obj\Debug\net9.0\rewriteIfUsingSwitchCase.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\rewriteIfUsingSwitchCase\obj\Debug\net9.0\refint\rewriteIfUsingSwitchCase.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\rewriteIfUsingSwitchCase\obj\Debug\net9.0\rewriteIfUsingSwitchCase.pdb
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\rewriteIfUsingSwitchCase\obj\Debug\net9.0\rewriteIfUsingSwitchCase.genruntimeconfig.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\rewriteIfUsingSwitchCase\obj\Debug\net9.0\ref\rewriteIfUsingSwitchCase.dll

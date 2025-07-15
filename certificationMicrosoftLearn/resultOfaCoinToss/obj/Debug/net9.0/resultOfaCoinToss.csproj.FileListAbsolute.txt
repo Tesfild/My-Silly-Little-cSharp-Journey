@@ -1,0 +1,14 @@
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\resultOfaCoinToss\bin\Debug\net9.0\resultOfaCoinToss.exe
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\resultOfaCoinToss\bin\Debug\net9.0\resultOfaCoinToss.deps.json
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\resultOfaCoinToss\bin\Debug\net9.0\resultOfaCoinToss.runtimeconfig.json
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\resultOfaCoinToss\bin\Debug\net9.0\resultOfaCoinToss.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\resultOfaCoinToss\bin\Debug\net9.0\resultOfaCoinToss.pdb
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\resultOfaCoinToss\obj\Debug\net9.0\resultOfaCoinToss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\resultOfaCoinToss\obj\Debug\net9.0\resultOfaCoinToss.AssemblyInfoInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\resultOfaCoinToss\obj\Debug\net9.0\resultOfaCoinToss.AssemblyInfo.cs
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\resultOfaCoinToss\obj\Debug\net9.0\resultOfaCoinToss.csproj.CoreCompileInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\resultOfaCoinToss\obj\Debug\net9.0\resultOfaCoinToss.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\resultOfaCoinToss\obj\Debug\net9.0\refint\resultOfaCoinToss.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\resultOfaCoinToss\obj\Debug\net9.0\resultOfaCoinToss.pdb
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\resultOfaCoinToss\obj\Debug\net9.0\resultOfaCoinToss.genruntimeconfig.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\resultOfaCoinToss\obj\Debug\net9.0\ref\resultOfaCoinToss.dll

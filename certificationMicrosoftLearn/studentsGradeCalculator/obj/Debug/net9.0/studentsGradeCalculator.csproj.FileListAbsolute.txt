@@ -1,0 +1,14 @@
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\studentsGradeCalculator\bin\Debug\net9.0\studentsGradeCalculator.exe
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\studentsGradeCalculator\bin\Debug\net9.0\studentsGradeCalculator.deps.json
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\studentsGradeCalculator\bin\Debug\net9.0\studentsGradeCalculator.runtimeconfig.json
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\studentsGradeCalculator\bin\Debug\net9.0\studentsGradeCalculator.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\studentsGradeCalculator\bin\Debug\net9.0\studentsGradeCalculator.pdb
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\studentsGradeCalculator\obj\Debug\net9.0\studentsGradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\studentsGradeCalculator\obj\Debug\net9.0\studentsGradeCalculator.AssemblyInfoInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\studentsGradeCalculator\obj\Debug\net9.0\studentsGradeCalculator.AssemblyInfo.cs
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\studentsGradeCalculator\obj\Debug\net9.0\studentsGradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\studentsGradeCalculator\obj\Debug\net9.0\studentsGradeCalculator.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\studentsGradeCalculator\obj\Debug\net9.0\refint\studentsGradeCalculator.dll
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\studentsGradeCalculator\obj\Debug\net9.0\studentsGradeCalculator.pdb
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\studentsGradeCalculator\obj\Debug\net9.0\studentsGradeCalculator.genruntimeconfig.cache
+C:\Users\rebek\Documents\Dev\cSharp\certificationMicrosoftLearn\studentsGradeCalculator\obj\Debug\net9.0\ref\studentsGradeCalculator.dll
